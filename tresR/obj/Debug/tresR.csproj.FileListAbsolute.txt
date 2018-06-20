@@ -1,0 +1,9 @@
+C:\Users\diego\Documents\5to ciclo\IHM\Proyecto2\tresR\tresR\bin\tresR.dll.config
+C:\Users\diego\Documents\5to ciclo\IHM\Proyecto2\tresR\tresR\bin\tresR.dll
+C:\Users\diego\Documents\5to ciclo\IHM\Proyecto2\tresR\tresR\bin\tresR.pdb
+C:\Users\diego\Documents\5to ciclo\IHM\Proyecto2\tresR\tresR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diego\Documents\5to ciclo\IHM\Proyecto2\tresR\tresR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diego\Documents\5to ciclo\IHM\Proyecto2\tresR\tresR\obj\Debug\tresR.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\5to ciclo\IHM\Proyecto2\tresR\tresR\obj\Debug\tresR.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\5to ciclo\IHM\Proyecto2\tresR\tresR\obj\Debug\tresR.dll
+C:\Users\diego\Documents\5to ciclo\IHM\Proyecto2\tresR\tresR\obj\Debug\tresR.pdb
